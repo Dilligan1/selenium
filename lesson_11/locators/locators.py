@@ -1,0 +1,1 @@
+VISIBLE_AFFTER_LINK = ("xpath","//img[@class ='card-img-top img-fluid']")
